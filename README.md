@@ -1,4 +1,4 @@
-# Medical Conformer RAG (Conformer + FAISS + Groq)
+# Medical Conformer RAG Transcription System (Conformer + FAISS + Groq)
 
 This project implements a clinical speech-to-text and retrieval-augmented generation (RAG) system that converts consultation audio into structured transcripts and enables context-aware question answering.
 
